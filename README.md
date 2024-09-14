@@ -1,4 +1,4 @@
-# Laravel Form Validation Rules Example
+# How to Add Form Validation Rules in Laravel?
 In this video, I will show you how to add form validation in laravel application. we will also use form request validation class to add form validation in laravel.
 
 <strong>Watch Video on Youtube:</strong><br/>
